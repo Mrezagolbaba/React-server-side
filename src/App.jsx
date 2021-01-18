@@ -1,5 +1,5 @@
 import {Switch,Route} from 'react-router'
-import Home from '../src/pages/home'
+import Home from './pages/home'
 
 function App(){
     
